@@ -1,5 +1,9 @@
 # VisualisationDesDonnees
 
+J'ai utilisé un Jupyter Notebook
+
+Les données en CSV pour le traitement
+
 Cours sur les bases de la visualisation des données avec Python
 
 #1 Intro 
